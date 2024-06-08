@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_fog.mk
+    $(LOCAL_DIR)/xiaomi_fog.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_fog-user \
-    omni_fog-userdebug \
-    omni_fog-eng
+    xiaomi_fog-user \
+    xiaomi_fog-userdebug \
+    xiaomi_fog-eng
